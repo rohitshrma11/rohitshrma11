@@ -12,10 +12,10 @@
 ---
 
 - 🔭 I’m currently working on [e-Learning Platform](https://github.com/rohitshrma11/e-Learning-Platform.git)
-- 🌱 I’m currently learning **Machine Learning, Cloud (AWS), and System Design**
+- 🌱 I’m currently learning **JAVA Full Stack, Cloud (AWS), and System Design, OOPs**
 - 👯 I’m looking to collaborate on **MERN and Java-based backend projects**
 - 💬 Ask me about **Java, Node.js, PHP, Python, React, MongoDB**
-- 📫 Reach me at: **youremail@example.com**
+- 📫 Reach me at: **rohitrjsharma9911@gmail.com**
 - ⚡ Fun fact: I debug better with chai ☕
 
 ---
@@ -42,7 +42,11 @@
 </p>
 
 ---
-
+## 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=rohitshrma11&theme=onedark" />
+</p>
+---
 ## 🌐 Connect with me
 <p align="center">
   <a href="https://www.linkedin.com/in/your-linkedin/" target="blank">
